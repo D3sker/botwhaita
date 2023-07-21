@@ -8,14 +8,11 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['393518398856', 'nobody|'],
-  ['33760536110', 'nobody1|'],
-['393515402089', 'DRXIOPORCO|'],
-['3903717177143', 'RamaSessoQuadruplo|']
-]
-global.suittag = ['393518398856'] 
-global.prems = ['393518398856'] 
-global.reportes_solicitudes = ['393518398856']
+  ['393515638253 desker]
+
+global.suittag = ['393515638253'] 
+global.prems = ['393515638353] 
+global.reportes_solicitudes = ['393515638253']
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
 global.author = '★ცơɬῳɧąıɬą★'
